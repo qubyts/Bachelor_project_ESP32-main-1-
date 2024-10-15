@@ -1,0 +1,5 @@
+.settings/
+build/
+/.cproject
+/.project
+/README.md
